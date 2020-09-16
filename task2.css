@@ -1,0 +1,77 @@
+.bagianSatu p{
+  font-size: 1.5em;
+  color: #e9e5e5e1;
+  font-family: 'Grenze Gotisch', cursive;
+}
+
+.bagianSatu strong{
+  font-size: 1.7em;
+  color:  #da4040;
+}
+
+.bagianKedua {
+  background-color: white;
+  color: black;
+}
+
+.bagianKedua .history {
+  font-family: 'Palanquin', sans-serif;
+}
+
+.bagianKedua .judul {
+  color:  #da4040;
+}
+
+.bagianKedua p {
+  color: rgb(27, 27, 27);
+}
+
+.bagianKedua mark {
+  background-color: #eea3a354;
+}
+
+.bagianKetiga {
+  font-size: 1.8em;
+}
+
+.bagianKetiga .bentukUmum {
+  font-family: 'Lobster', cursive;
+}
+
+.bagianKetiga .card-text {
+  font-size: 0.6em;
+}
+
+.bagianKetiga .example {
+  color: #e9e5e5e1;
+  font-family: 'Vidaloka', serif;
+  font-size: medium;
+}
+
+.bagianKetiga .example .rumus {
+  color:  #da4040;
+  font-weight: bold;
+}
+/*
+ * Button to Top
+ */
+ #BtnTop {
+  position: fixed;
+  float: right;
+  bottom: 10px;
+  right: 5%;
+  background-color: #e8ebe9;
+  border-radius: 50px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+#BtnTop > a {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 2px 10px 2px 10px;
+}
+#BtnTop:hover {
+  background-color: #da4040;
+  border: 1px solid #a12424;
+}
+
